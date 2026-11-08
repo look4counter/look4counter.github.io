@@ -6,4 +6,16 @@
         url="https://github.com/look4counter/intellij-glueframework/releases/download/1.0.4/intellij-glueframework-1.0.4.zip">
         <idea-version since-build="253"/>
     </plugin>
+    <plugin
+        id="com.look4counter.intellij-jsp"
+        version="1.0.1"
+        url="https://github.com/look4counter/intellij-jsp/releases/download/1.0.1/intellij-jsp-1.0.1.zip">
+        <idea-version since-build="253"/>
+    </plugin>
+    <plugin
+        id="com.look4counter.intellij-tomcat-connector"
+        version="1.0.0"
+        url="https://github.com/look4counter/intellij-tomcat-connector/releases/download/1.0.0/intellij-tomcat-connector-1.0.0.zip">
+        <idea-version since-build="253"/>
+    </plugin>
 </plugins>
