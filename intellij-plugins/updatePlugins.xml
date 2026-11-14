@@ -2,8 +2,8 @@
 <plugins>
     <plugin
         id="com.look4counter.intellij-glueframework"
-        version="1.0.5"
-        url="https://github.com/look4counter/intellij-glueframework/releases/download/1.0.5/intellij-glueframework-1.0.5.zip">
+        version="1.0.6"
+        url="https://github.com/look4counter/intellij-glueframework/releases/download/1.0.6/intellij-glueframework-1.0.6.zip">
         <idea-version since-build="253"/>
     </plugin>
     <plugin
